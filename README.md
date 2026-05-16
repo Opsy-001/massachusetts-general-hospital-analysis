@@ -52,7 +52,7 @@ To analyze hospital data in order to identify trends in patient behavior, treatm
 - Created relationships between tables  
 - Created calculated columns:
   - Age  
-  - Age Groups (35–50, 51–65, 66–80, 81+)  
+  - Age Groups (26-40, 41–60, 61–80, 81+)  
   - Length of Stay Groups  
 
 ### 📐 DAX Measures
@@ -68,7 +68,7 @@ To analyze hospital data in order to identify trends in patient behavior, treatm
 - Bar Chart: Encounter Class Distribution  
 
 ### Page 2: Cost & Insurance
-- Bar Chart: Cost by Procedure  
+- Bar Chart: Cost by Procedure  (TOP 10)
 - Bar Chart: Cost by Insurance Provider (Top 5)  
 - Column Chart: Insurance Coverage vs Total Cost  
 
@@ -78,7 +78,7 @@ To analyze hospital data in order to identify trends in patient behavior, treatm
 - Donut Chart: Ethnicity Distribution  
 - Bar Chart: Patient Distribution by Race  
 
-### Page 4: Length of Stay & Behavior
+### Page 4: Length of Stay 
 - Column Chart: Length of Stay Distribution  
 - Column Chart: Length of Stay vs Cost  
 - Bar Chart: Top Medical Conditions  
