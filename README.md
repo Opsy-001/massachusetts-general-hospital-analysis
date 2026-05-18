@@ -188,7 +188,7 @@ Aspiring Data Analyst with a passion for transforming raw data into actionable i
 This project is part of a structured data analytics portfolio developed to demonstrate real-world analytical thinking, problem-solving, and visualization skills in the healthcare industry.
 
 🔗 **GitHub:** [Your GitHub Link Here]
-🔗 **LinkedIn:** [Your LinkedIn Link Here]
+🔗 **LinkedIn:** www.linkedin.com/in/abigail-abiodun-0205903a7
 
 ---
 
