@@ -93,7 +93,7 @@ The following business questions guided the analysis:
 The dashboard consists of **4 interactive pages:**
 
 ### 1. Overview
-![Overview Dashboard](screenshot_overview.png)
+![Overview Dashboard](Screenshot_overview.png)
 
 High-level hospital performance summary including:
 - Total Patients: **974**
@@ -105,14 +105,14 @@ High-level hospital performance summary including:
 - Encounter Class Distribution
 
 ### 2. Cost & Insurance
-![Cost and Insurance Dashboard](screenshot_cost_insurance.png)
+![Cost and Insurance Dashboard](Screenshot_cost_insurance.png)
 
 - Average treatment cost by medical procedure — top 5 procedures
 - Total cost by insurance provider
 - Total treatment cost vs insurance coverage by payer
 
 ### 3. Patient Demographics
-![Patient Demographics Dashboard](screenshot_demographics.png)
+![Patient Demographics Dashboard](Screenshot_demographics.png)
 
 - Average treatment cost by age group (26+)
 - Average treatment cost by gender
@@ -120,7 +120,7 @@ High-level hospital performance summary including:
 - Patient distribution by race
 
 ### 4. Length of Stay & Behavior
-![Length of Stay Dashboard](screenshot_los.png)
+![Length of Stay Dashboard](Screenshot_los.png)
 
 - Distribution of length of stay across time buckets
 - Relationship between length of stay and treatment cost
