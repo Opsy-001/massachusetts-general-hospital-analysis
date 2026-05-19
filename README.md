@@ -181,13 +181,9 @@ The recommendations focus on four key priorities: **cardiac care cost reduction,
 
 ## About the Author
 
+## Author
 **Abigail Abiodun**
-
-Aspiring Data Analyst with a passion for transforming raw data into actionable insights. Experienced in building interactive dashboards and reports using Power BI, with hands-on skills in data cleaning, DAX, Power Query, and Excel.
-
-This project is part of a structured data analytics portfolio developed to demonstrate real-world analytical thinking, problem-solving, and visualization skills in the healthcare industry.
-
-🔗 **GitHub:** [https://github.com/Opsy-001]
+🔗 **GitHub:** https://github.com/Opsy-001
 🔗 **LinkedIn:** www.linkedin.com/in/abigail-abiodun-0205903a7
 
 ---
