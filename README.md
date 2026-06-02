@@ -95,24 +95,28 @@ The following business questions guided the analysis:
 The dashboard consists of **4 interactive pages:**
 
 ### 1. Cost & Insurance
+- Treatment cost trends, insurance contribution, and financial exposure
+  
 ![Cost and Insurance Dashboard](Screenshot_cost_insurance.png)
 
-- Treatment cost trends, insurance contribution, and financial exposure
 
 ### 2. Patient Demographics
+- Cost distribution across age, gender, race, and ethnicity
+  
 ![Patient Demographics Dashboard](Screenshot_demographics.png)
 
-- Cost distribution across age, gender, race, and ethnicity
-- 
+
 ### 3. Length of Stay Behavior
+-  Patient stay patterns and relationship with cost
+  
 ![Length of Stay Dashboard](Screenshot_los.png)
 
--  Patient stay patterns and relationship with cost
 
 ### 4. Readmission
+- Readmission rates, trends, and risk segments
+  
 ![Readmission Dashboard](Screenshot_readmission.png)
 
-- Readmission rates, trends, and risk segments
 
 ---
 
