@@ -78,15 +78,15 @@ The following business questions guided the analysis:
 ## Methodology
 
 1. **Data Cleaning** — Handled missing values, standardized date formats (converted ISO 8601 format), and removed duplicates in Power Query
-3. **Feature Engineering** — Created a calculated **Length of Stay** column by subtracting Admission Date from Discharge Date using:
+2. **Feature Engineering** — Created a calculated **Length of Stay** column by subtracting Admission Date from Discharge Date using:
    ```
    Duration.TotalMinutes(DateTime.From([Discharge Date]) - DateTime.From([Admission Date]))
    ```
-4. **LOS Grouping** — Created length of stay buckets (0–1 hr, 2–8 hrs, 8–12 hrs, 12+ hrs) using a custom DAX column
-5. **Readmission Analysis** — Created an **Inpatient Readmission** column in Excel to identify patients with more than one inpatient encounter within 30 days, then created a **Readmission Flag** calculated column in Power BI to classify each encounter accordingly
-6. **Data Modeling** — Built relationships between tables and created DAX measures for all KPIs including readmission rate, total readmissions, and readmission rate by gender and age group
-7. **Visualization** — Designed 4 interactive dashboard pages with filters, drill-throughs, and insight annotations
-8. **Validation** — Cross-checked Power BI results against Excel calculations to ensure accuracy
+3. **LOS Grouping** — Created length of stay buckets (0–1 hr, 2–8 hrs, 8–12 hrs, 12+ hrs) using a custom DAX column
+4. **Readmission Analysis** — Created an **Inpatient Readmission** column in Excel to identify patients with more than one inpatient encounter within 30 days, then created a **Readmission Flag** calculated column in Power BI to classify each encounter accordingly
+5. **Data Modeling** — Built relationships between tables and created DAX measures for all KPIs including readmission rate, total readmissions, and readmission rate by gender and age group
+6. **Visualization** — Designed 4 interactive dashboard pages with filters, drill-throughs, and insight annotations
+7. **Validation** — Cross-checked Power BI results against Excel calculations to ensure accuracy
 
 ---
 
