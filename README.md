@@ -1,5 +1,12 @@
 # 🏥 Massachusetts General Hospital — Patient Analytics Dashboard
 
+![Tool](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Tool](https://img.shields.io/badge/Tool-Excel-green)
+![Skill](https://img.shields.io/badge/Skill-DAX-orange)
+![Skill](https://img.shields.io/badge/Skill-PowerQuery-blue)
+![Domain](https://img.shields.io/badge/Domain-Healthcare-blueviolet)
+![Project](https://img.shields.io/badge/Project-DataAnalytics-black)
+
 > A comprehensive Power BI dashboard analyzing patient records from Massachusetts General Hospital covering **2011–2022**, exploring treatment costs, patient demographics, length of stay, insurance coverage, and inpatient readmission across 28,000+ encounters.
 
 ---
