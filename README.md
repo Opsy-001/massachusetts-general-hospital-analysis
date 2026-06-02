@@ -177,21 +177,23 @@ The dashboard consists of **4 interactive pages:**
 
 ---
 
-## Recommendations
 
-| # | Insight | Recommendation | Stakeholder |
-|---|---|---|---|
-| 1 | No consistent cost upward trend | Monitor annual cost fluctuations and investigate outlier years like 2012 | Finance Department |
-| 2 | Ambulatory encounters dominate | Prioritize investment in ambulatory and outpatient facilities | Resource Planning Team |
-| 3 | Myocardial infarction costs $66K avg | Develop targeted cardiac cost management and preventive cardiology programs | Clinical & Finance Teams |
-| 4 | Uninsured patients = $49M uncovered | Build financial assistance programs and drive insurance enrollment initiatives | Finance & Patient Services |
-| 5 | Patients aged 26–40 have highest costs | Investigate cost drivers in younger patients and develop early intervention programs | Clinical Team |
-| 6 | Male patients cost 24% more | Investigate encounter type mix and launch male health awareness campaigns | Clinical & Outreach Teams |
-| 7 | Inpatient stays average 37 hours | Review inpatient care protocols to identify efficiency opportunities | Operations Team |
-| 8 | Heart failure is top condition | Prioritize chronic disease management programs to reduce repeat visits | Clinical Management |
-| 9 | Readmission rate at 33.04% — above 15% benchmark | Implement post-discharge follow-up programs and care transition protocols to reduce preventable readmissions | Clinical Team / Hospital Administration |
-| 10 | Male readmission rate at 58.82% | Develop gender-targeted discharge planning and post-care support programs for male inpatients | Clinical & Patient Services Teams |
-| 11 | Patients aged 61–80 have highest readmission rate | Strengthen elderly care management including medication reviews, home visits, and follow-up scheduling | Geriatric Care Team |
+
+| #  | Insight                                                    | Recommendation                                                                                                                                                          | Stakeholder                             |
+| -- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 1  | No consistent cost upward trend                            | Establish continuous cost monitoring dashboards and investigate cost spikes (e.g., 2012) to identify underlying drivers such as procedure mix or patient volume changes | Finance Department                      |
+| 2  | Ambulatory encounters dominate (44.95%)                    | Expand and optimize outpatient and ambulatory care services to improve efficiency, reduce congestion, and lower operational costs                                       | Operations & Resource Planning Teams    |
+| 3  | Myocardial infarction is the highest-cost procedure ($66K) | Implement targeted cardiac care programs, including preventive screening and early intervention strategies, to reduce high-cost emergency cases                         | Clinical & Preventive Care Teams        |
+| 4  | Uninsured patients account for $49M in uncovered costs     | Introduce structured financial assistance programs and strengthen insurance enrollment initiatives to reduce uncompensated care                                         | Finance & Patient Services              |
+| 5  | Patients aged 26–40 incur the highest costs                | Conduct deeper analysis to identify cost drivers (e.g., lifestyle-related conditions or emergency visits) and design targeted preventive health programs                | Clinical & Analytics Teams              |
+| 6  | Male patients have higher treatment costs                  | Analyze clinical and behavioral factors contributing to higher male patient costs and develop targeted awareness and early intervention programs                        | Clinical & Public Health Teams          |
+| 7  | Inpatient stays average 37 hours                           | Review inpatient workflows and discharge processes to identify inefficiencies and reduce unnecessary extended stays                                                     | Hospital Operations Team                |
+| 8  | Chronic heart failure is the most frequent condition       | Prioritize chronic disease management programs (e.g., monitoring, follow-ups) to reduce repeat visits and long-term treatment costs                                     | Clinical Management Team                |
+| 9  | Readmission rate is 33.04% (above expected benchmarks)     | Implement structured post-discharge follow-up programs, including patient education, remote monitoring, and scheduled check-ins to reduce preventable readmissions      | Clinical Team & Hospital Administration |
+| 10 | Male patients have the highest readmission rate (58.82%)   | Develop targeted discharge planning and follow-up care strategies specifically for high-risk male patients                                                              | Clinical & Patient Support Teams        |
+| 11 | Patients aged 61–80 have the highest readmission risk      | Strengthen geriatric care programs, including medication reviews, home care support, and regular follow-ups to reduce readmissions                                      | Geriatric Care Team                     |
+| 12 | Readmissions driven by "Encounter for problem" cases       | Improve diagnosis accuracy and treatment resolution during initial visits to minimize unresolved conditions leading to repeat admissions                                | Clinical Quality & Assurance Team       |
+
 
 ---
 
