@@ -188,12 +188,17 @@ The dashboard consists of **4 interactive pages:**
 
 ## Expected Business Impact
 
-- **Cost Reduction** — Targeted cardiac and chronic disease interventions could significantly reduce the hospital's highest-cost procedure volumes
-- **Revenue Protection** — Addressing the $49M uninsured coverage gap through financial assistance and enrollment programs reduces financial risk
-- **Operational Efficiency** — Better resource allocation for ambulatory services (44.95% of volume) improves patient throughput and reduces wait times
-- **Reduced Readmissions** — Implementing post-discharge follow-up programs could bring the 33.04% readmission rate closer to the 15% national benchmark, improving both patient outcomes and hospital resource utilization
-- **Improved Patient Outcomes** — Early intervention for high-risk demographics (male patients, 61–80 age group) reduces late-stage, high-cost presentations and preventable readmissions
-- **Data Quality** — Standardizing data collection for medical conditions will enable deeper clinical insights in future analyses
+* **Cost Optimization** — Identifying high-cost procedures and length-of-stay drivers enables targeted interventions to reduce unnecessary expenses
+
+* **Revenue Protection** — Addressing the $49M uninsured coverage gap through financial assistance and insurance enrollment initiatives helps reduce financial risk
+
+* **Operational Efficiency** — Expanding and optimizing ambulatory services (44.95% of encounters) improves patient flow and reduces hospital congestion
+
+* **Reduced Readmissions** — Implementing structured discharge planning and follow-up programs can help lower the 33.04% readmission rate, improving both patient outcomes and resource utilization
+
+* **Improved Patient Outcomes** — Targeted interventions for high-risk groups (male patients and older age groups) support better care delivery and reduce repeated hospital visits
+
+* **Enhanced Decision-Making** — Data-driven insights enable hospital stakeholders to make informed decisions on resource allocation, care strategies, and financial planning
 
 ---
 ## Skills Demonstrated
@@ -212,11 +217,12 @@ The dashboard consists of **4 interactive pages:**
 ---  
 ## Conclusion
 
-This dashboard provides Massachusetts General Hospital stakeholders with a clear, data-driven view of patient activity, cost drivers, demographic patterns, and readmission trends across 11 years of records. The analysis reveals that while most encounters are non-critical and short in duration, a small number of high-acuity procedures, uninsured patients, and preventable readmissions account for a disproportionate share of hospital costs and resources.
+This dashboard provides stakeholders with a clear, data-driven view of patient activity, cost drivers, demographic patterns, and readmission trends across 11 years of records. The analysis shows that while most encounters are non-critical and short in duration, a small number of high-acuity procedures, uninsured patients, and preventable readmissions account for a disproportionate share of hospital costs and resource utilization.
 
-The inpatient readmission rate of **33.04% — more than double the national benchmark of 15%** — is the most urgent finding and requires immediate attention through structured discharge planning and post-care follow-up programs.
+The inpatient readmission rate of **33.04% — significantly higher than commonly reported benchmarks (~15%)** — emerges as the most critical finding, highlighting the need for improved discharge planning and structured post-care follow-up programs.
 
-The recommendations focus on five key priorities: **cardiac care cost reduction, uninsured patient financial risk management, resource planning for high-volume encounters, demographic-targeted outreach, and readmission reduction** — all aimed at improving operational efficiency and patient outcomes.
+Overall, the recommendations focus on five key priorities: **cardiac care cost reduction, uninsured patient financial risk management, resource optimization for high-volume encounters, targeted interventions for high-risk demographics, and readmission reduction** — all aimed at improving operational efficiency, financial sustainability, and patient outcomes.
+
 
 ---
 
