@@ -133,24 +133,47 @@ The dashboard consists of **4 interactive pages:**
 
 ## Key Insights
 
-- 📈 **Average treatment costs peaked at $4.3K in 2012** with no consistent upward trend since
-- 💊 **Ambulatory encounters dominate at 44.95%** confirming most cases are non-critical
-- 💰 **Myocardial infarction is the costliest procedure at $66K** — heart-related procedures drive the highest costs
-- 🚨 **Uninsured patients generate $49M in claims with zero payer coverage** — the largest financial risk to the hospital
-- 👥 **Patients aged 26–40 incur the highest average treatment cost at $6.9K** across all age groups
-- ⚧ **Male patients average $800 more per encounter ($4.1K vs $3.3K)** — possibly driven by higher-acuity visit types
-- 🏥 **83.4% of patients are Non-Hispanic** — showing uneven demographic representation
-- 🧑🏻 **White patients account for 19.5K visits** — the most of any racial group
-- ⏱ **Most patients (24K) stay under 1 hour** consistent with high ambulatory and outpatient volume
-- 🔀 **Patient stays cluster at under 1 hour or over 2 hours** — suggesting most encounters are either quick outpatient visits or extended admissions with no middle ground
-- 🛏 **Inpatient stays average 37 hours** — significantly longer than all other encounter classes
-- 🫀 **Chronic congestive heart failure (1,738 visits) is the top recorded condition** driving hospital visits
-- 💸 **Treatment costs peak at $8.2K for stays over 12 hours** consistent with complex inpatient and emergency cases
-- 🔁 **Inpatient readmission rate is 33.04%** — more than double the national benchmark of 15%, signaling a significant patient retention and care quality concern
-- 👨 **Male inpatients are readmitted at 58.82%** — more than triple the female rate of 17.61%, suggesting higher clinical risk among male inpatients
-- 👴 **Patients aged 61–80 have the highest readmission rate at 37.57%** — older patients face the greatest risk of returning to hospital
-- 📉 **Readmission rates dropped from 60% in 2011 to a low of 12% in 2020** before rising again to 27% in 2022
-- 🏨 **"Encounter for problem" is the leading cause of readmission** with 303 cases — the most common trigger for return visits
+### 💰 Cost & Financial Insights
+
+* 📈 Average treatment costs peaked at **$4.3K in 2012**, with no consistent upward trend over time
+* 💊 **Myocardial infarction ($66K)** is the costliest procedure, indicating heart-related conditions drive the highest expenses
+* 🚨 **Uninsured patients generate $49M in claims with zero coverage**, representing the largest financial risk
+* 💸 Treatment costs increase with length of stay, peaking at **$8.2K for stays over 12 hours**
+
+---
+
+### 🏥 Patient Behavior & Hospital Utilization
+
+* 💊 **Ambulatory encounters dominate (44.95%)**, confirming most visits are non-critical
+* ⏱ **Most patients (24K) stay under 1 hour**, reflecting high outpatient volume
+* 🔀 Patient stays cluster at **under 1 hour or over 2 hours**, indicating a split between quick visits and extended care
+* 🛏 **Inpatient stays average 37 hours**, significantly longer than other encounter types
+
+---
+
+### 👥 Demographics Insights
+
+* 👥 Patients aged **26–40 incur the highest average treatment cost ($6.9K)**
+* ⚧ Male patients have higher average costs (**$4.1K vs $3.3K**), possibly due to higher-acuity cases
+* 🏥 **83.4% of patients are Non-Hispanic**, showing uneven demographic representation
+* 🧑🏻 **White patients account for 19.5K visits**, the highest among all racial groups
+
+---
+
+### 🫀 Medical Conditions Insights
+
+* 🫀 **Chronic congestive heart failure (1,738 visits)** is the most common condition driving hospital visits
+* 🏥 A small number of conditions contribute disproportionately to overall hospital utilization
+
+---
+
+### 🔁 Readmission Insights
+
+* 🔁 **Readmission rate is 33.04%**, significantly higher than common benchmarks (~15%), indicating potential care quality concerns
+* 👨 Male patients have a higher readmission rate (**58.82%**) compared to females (**17.61%**)
+* 👴 Patients aged **61–80 have the highest readmission rate (37.57%)**, showing increased risk among older patients
+* 📉 Readmission rates declined from **60% (2011) to 12% (2020)** before rising again to **27% (2022)**
+* 🏨 **"Encounter for problem"** is the leading cause of readmissions (303 cases)
 
 ---
 
