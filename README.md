@@ -112,7 +112,7 @@ The dashboard consists of **4 interactive pages:**
 ![Length of Stay Dashboard](Screenshot_los.png)
 
 
-### 4. Readmission
+### 4. Readmission analysis
 - Readmission rates, trends, and risk segments
   
 ![Readmission Dashboard](Screenshot_readmission.png)
