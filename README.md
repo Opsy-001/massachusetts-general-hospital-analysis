@@ -59,7 +59,7 @@ The following business questions guided the analysis:
 | Payer Coverage | Amount covered by insurance |
 | Insurance Provider | Name of the insurance payer |
 
-> **Dataset period:** 2011–2022 | **Total encounters:** 28,000+ | **Total patients:** 974 | **Total inpatients:** 1,135
+> **Dataset period:** 2011–2022 | **Total encounters:** 28,000+ | **Total patients:** 974 | **Total inpatients Encounter:** 1,135
 
 ---
 
@@ -77,8 +77,7 @@ The following business questions guided the analysis:
 
 ## Methodology
 
-1. **Data Collection** — Obtained raw hospital patient records dataset covering 2011–2022
-2. **Data Cleaning** — Handled missing values, standardized date formats (converted ISO 8601 format), and removed duplicates in Power Query
+1. **Data Cleaning** — Handled missing values, standardized date formats (converted ISO 8601 format), and removed duplicates in Power Query
 3. **Feature Engineering** — Created a calculated **Length of Stay** column by subtracting Admission Date from Discharge Date using:
    ```
    Duration.TotalMinutes(DateTime.From([Discharge Date]) - DateTime.From([Admission Date]))
@@ -98,38 +97,22 @@ The dashboard consists of **4 interactive pages:**
 ### 1. Cost & Insurance
 ![Cost and Insurance Dashboard](Screenshot_cost_insurance.png)
 
-- Total Treatment Cost: **$101.51M** | Average Cost: **$3.64K** | Total Encounters: **28K**
-- Average treatment cost by medical procedure — top 5 procedures
-- Average treatment cost by year (2011–2022)
-- Total cost by insurance provider
-- Total treatment cost vs insurance coverage by payer
+- Treatment cost trends, insurance contribution, and financial exposure
 
 ### 2. Patient Demographics
 ![Patient Demographics Dashboard](Screenshot_demographics.png)
 
-- Total Patients: **974** | Total Male: **494** | Total Female: **480**
-- Average treatment cost by age group (26+)
-- Average treatment cost by gender
-- Ethnicity distribution (Hispanic vs Non-Hispanic)
-- Patient distribution by race
-
+- Cost distribution across age, gender, race, and ethnicity
+- 
 ### 3. Length of Stay Behavior
 ![Length of Stay Dashboard](Screenshot_los.png)
 
-- Average Length of Stay: **7 hours** | Total Inpatient: **1,135** | Total Encounters: **28K**
-- Distribution of length of stay across time buckets
-- Relationship between length of stay and treatment cost
-- Top 5 medical conditions driving hospital visits
-- Average length of stay by encounter class
+-  Patient stay patterns and relationship with cost
 
 ### 4. Readmission
 ![Readmission Dashboard](Screenshot_readmission.png)
 
-- Readmission Rate: **33.04%** | Total Readmissions: **375** | Total Inpatients: **1,135**
-- Readmission rate by year (2011–2022)
-- Readmission rate by gender
-- Top 5 conditions driving readmission
-- Readmission rate by age group
+- Readmission rates, trends, and risk segments
 
 ---
 
@@ -209,7 +192,20 @@ The dashboard consists of **4 interactive pages:**
 - **Data Quality** — Standardizing data collection for medical conditions will enable deeper clinical insights in future analyses
 
 ---
+## Skills Demonstrated
 
+- Data Cleaning (Power Query, Excel)
+- Data Transformation
+- Feature Engineering
+- DAX Calculations
+- Data Modeling
+- Dashboard Design
+- Data Visualization
+- Business Analysis
+- Data Storytelling
+- Stakeholder Communication
+
+---  
 ## Conclusion
 
 This dashboard provides Massachusetts General Hospital stakeholders with a clear, data-driven view of patient activity, cost drivers, demographic patterns, and readmission trends across 11 years of records. The analysis reveals that while most encounters are non-critical and short in duration, a small number of high-acuity procedures, uninsured patients, and preventable readmissions account for a disproportionate share of hospital costs and resources.
