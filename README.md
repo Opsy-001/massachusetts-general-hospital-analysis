@@ -230,7 +230,7 @@ Overall, the recommendations focus on five key priorities: **cardiac care cost r
 ## About the Author
 
 **Abigail Abiodun**
-🔗 **LinkedIn:** 🔗 LinkedIn: https://www.linkedin.com/in/abigail-abiodun-0205903a7
+🔗 **LinkedIn:** https://www.linkedin.com/in/abigail-abiodun-0205903a7
 
 ---
 🏆 Award: Best Presentation – STC Data Analyst Project
