@@ -1,7 +1,7 @@
 # 🏥 Massachusetts General Hospital — Patient Analytics Dashboard
 
 
-> A comprehensive Power BI dashboard analyzing patient records from Massachusetts General Hospital covering **2011–2022**, exploring treatment costs, patient demographics, length of stay, insurance coverage, and inpatient readmission across 28,000+ encounters.
+> This project analyzes a synthetic dataset modeled after Massachusetts General Hospital (MGH), covering patient records from **2011–2022**. It focuses on uncovering insights into treatment costs, patient demographics, length of stay, insurance coverage, and inpatient readmission across 28,000+ encounters.
 
 ---
 
@@ -20,11 +20,12 @@
 
 ---
 
+
 ## Introduction
 
-This project presents an end-to-end data analytics solution for Massachusetts General Hospital (MGH), one of the leading healthcare institutions in the United States. Using a dataset covering patient records from 2011 to 2022, this dashboard was built to help hospital administrators, clinical teams, and finance departments make data-driven decisions around patient care, cost management, and resource planning.
+This project presents an end-to-end data analytics solution using a **synthetic dataset modeled after Massachusetts General Hospital (MGH)**, one of the leading healthcare institutions in the United States. The dataset covers patient records from **2011 to 2022** and is used to support data-driven decision-making in areas such as patient care, cost management, and resource planning.
 
-The dashboard was developed using **Power BI Desktop** and covers five key analytical areas: cost and insurance, patient demographics, length of stay behavior, and inpatient readmission analysis.
+The dashboard was developed using **Power BI Desktop** and focuses on four key analytical areas: **cost and insurance, patient demographics, length of stay behavior, and inpatient readmission analysis**. It is designed to provide actionable insights for hospital administrators, clinical teams, and finance departments.
 
 ---
 
