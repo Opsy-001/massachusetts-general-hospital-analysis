@@ -59,7 +59,7 @@ The following business questions guided the analysis:
 | Payer Coverage | Amount covered by insurance |
 | Insurance Provider | Name of the insurance payer |
 
-> **Dataset period:** 2011–2022 | **Total encounters:** 28,000+ | **Total patients:** 974 | **Total inpatients Encounter:** 1,135
+> **Dataset period:** 2011–2022 | **Total encounters:** 28,000+ | **Total patients:** 974 | **Total inpatients Encounters:** 1,135
 
 ---
 
@@ -166,6 +166,7 @@ The dashboard consists of **4 interactive pages:**
 
 ---
 
+## Recommendations
 
 
 | #  | Insight                                                    | Recommendation                                                                                                                                                          | Stakeholder                             |
@@ -229,7 +230,7 @@ Overall, the recommendations focus on five key priorities: **cardiac care cost r
 ## About the Author
 
 **Abigail Abiodun**
-🔗 **LinkedIn:** www.linkedin.com/in/abigail-abiodun-0205903a7
+🔗 **LinkedIn:** 🔗 LinkedIn: https://www.linkedin.com/in/abigail-abiodun-0205903a7
 
 ---
 🏆 Award: Best Presentation – STC Data Analyst Project
