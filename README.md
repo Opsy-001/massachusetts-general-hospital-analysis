@@ -97,25 +97,26 @@ The dashboard consists of **4 interactive pages:**
 ### 1. Cost & Insurance
 - Treatment cost trends, insurance contribution, and financial exposure
   
-![Cost and Insurance Dashboard](Screenshot_cost_insurance.png)
-
-
-### 2. Patient Demographics
-- Cost distribution across age, gender, race, and ethnicity
-  
-![Patient Demographics Dashboard](Screenshot_demographics.png)
-
-
-### 3. Length of Stay Behavior
--  Patient stay patterns and relationship with cost
-  
-![Length of Stay Dashboard](Screenshot_los.png)
+![Cost and Insurance Dashboard](Cost&Insurance.png)
 
 
 ### 4. Readmission analysis
 - Readmission rates, trends, and risk segments
   
-![Readmission Dashboard](Screenshot_readmission.png)
+![Readmission Dashboard](Readmission.png)
+
+
+### 3. Length of Stay Behavior
+-  Patient stay patterns and relationship with cost
+  
+![Length of Stay Dashboard](Lengthofstay.png)
+
+
+### 2. Patient Demographics
+- Cost distribution across age, gender, race, and ethnicity
+  
+![Patient Demographics Dashboard](Patientdemography.png)
+
 
 
 ---
@@ -128,6 +129,16 @@ The dashboard consists of **4 interactive pages:**
 * 💊 **Myocardial infarction ($66K)** is the costliest procedure, indicating heart-related conditions drive the highest expenses
 * 🚨 **Uninsured patients generate $49M in claims with zero coverage**, representing the largest financial risk
 * 💸 Treatment costs increase with length of stay, peaking at **$8.2K for stays over 12 hours**
+
+---
+
+### 🔁 Readmission Insights
+
+* 🔁 **Readmission rate is 33.04%**, significantly higher than common benchmarks (~15%), indicating potential care quality concerns
+* 👨 Male patients have a higher readmission rate (**58.82%**) compared to females (**17.61%**)
+* 👴 Patients aged **61–80 have the highest readmission rate (37.57%)**, showing increased risk among older patients
+* 📉 Readmission rates declined from **60% (2011) to 12% (2020)** before rising again to **27% (2022)**
+* 🏨 **"Encounter for problem"** is the leading cause of readmissions (303 cases)
 
 ---
 
@@ -154,15 +165,6 @@ The dashboard consists of **4 interactive pages:**
 * 🫀 **Chronic congestive heart failure (1,738 visits)** is the most common condition driving hospital visits
 * 🏥 A small number of conditions contribute disproportionately to overall hospital utilization
 
----
-
-### 🔁 Readmission Insights
-
-* 🔁 **Readmission rate is 33.04%**, significantly higher than common benchmarks (~15%), indicating potential care quality concerns
-* 👨 Male patients have a higher readmission rate (**58.82%**) compared to females (**17.61%**)
-* 👴 Patients aged **61–80 have the highest readmission rate (37.57%)**, showing increased risk among older patients
-* 📉 Readmission rates declined from **60% (2011) to 12% (2020)** before rising again to **27% (2022)**
-* 🏨 **"Encounter for problem"** is the leading cause of readmissions (303 cases)
 
 ---
 
