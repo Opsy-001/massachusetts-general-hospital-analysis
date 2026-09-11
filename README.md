@@ -71,7 +71,6 @@ The following business questions guided the analysis:
 | **Power Query** | Data cleaning, transformation, and column creation |
 | **DAX** | Custom measures and calculated columns |
 | **Microsoft Excel** | Data exploration, validation, and inpatient readmission column creation |
-| **GitHub** | Portfolio documentation and project hosting |
 
 ---
 
